@@ -4,7 +4,7 @@
 
 Our Dialog React component from 'antd' was not responsive. While it has been extremely useful, it was not built for mobile or long bodies.
 
-![Dialog not Responsive](https://im4.ezgif.com/tmp/ezgif-4-db7ee76b6193.gif)
+![Dialog not Responsive](https://i.imgflip.com/2qp0ry.gif)
 
 ## Solutions
 
@@ -92,7 +92,7 @@ For the body flexbox to work and change according to the window size, you have t
 
 ## Tada
 
-![Dialog Responsive](https://im4.ezgif.com/tmp/ezgif-4-2dd43d50763d.gif)
+![Dialog Responsive](https://i.imgflip.com/2qp0zk.gif)
 
 
 
