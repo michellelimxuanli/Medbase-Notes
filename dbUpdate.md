@@ -17,8 +17,10 @@ Imagine doing this for every single data change.
 * Non-developer edits database from the backend app
 * Non-developer clicks one button on app
 
+![Solution here](./oneclick.png)
 
-### Solution
+
+### How I did it
 
 * Used json files in /public folder in React app to store static data files: Originally we stored the data files as .js files, but this meant that the files would be compiled when built and uploaded to S3.
 * Created new back-end: Python Django App gives you DB-editing ability for free 
